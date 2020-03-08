@@ -37,7 +37,7 @@ When the package with '-latest' is installed then when a new version if packaged
 
 ## Not running Pop!_OS?
 
-The previous instructions will work with Pop!_OS out of the box but for Ubuntu and other Debian derivatives the following commands will need to be ran first:
+The previous instructions will work with Pop!_OS out of the box but for Ubuntu and other Debian derivatives the following commands will need to be run first:
 
 ```
 sudo echo "deb http://apt.pop-os.org/proprietary bionic main" | sudo tee -a /etc/apt/sources.list.d/pop-proprietary.list
